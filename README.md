@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/tanianakrupnikova">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://t.me/Redhead_pik">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="20px" src="https://github.com/telegramdesktop/tdesktop/blob/dev/Telegram/Resources/art/icon32.png" />
 </a>
 
 <br>
