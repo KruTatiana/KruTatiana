@@ -14,11 +14,15 @@ Hi! My name is Tatiana Krupnikova. I'm studying frontend developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://www.cleanpng.com/png-javascript-programmer-node-js-web-application-vect-2989016/"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
+<code><img height="20" src="https://www.cleanpng.com/png-webpack-computer-icons-scalable-vector-graphics-re-7154971/preview.html"></code>
 
-- 🌱 I’m currently learning HTML, CSS, Git
-- 🤔 I’m looking for help with my first job as the frontend developer
-- My goals for thees year:
-- learning JavaScript
+
+
+- 🌱 I’m currently learning HTML, CSS, Git, Java Script, Bootstrap, Webpack.
+- 🤔 I’m looking for my traineeship as the frontend developer
+- My goals:
 - learning React
 - learning Vue
 - learning Node
