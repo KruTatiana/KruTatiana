@@ -14,9 +14,9 @@ Hi! My name is Tatiana Krupnikova. I'm studying frontend developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://www.cleanpng.com/png-javascript-programmer-node-js-web-application-vect-2989016/"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
-<code><img height="20" src="https://www.cleanpng.com/png-webpack-computer-icons-scalable-vector-graphics-re-7154971/preview.html"></code>
+<code><img height="20" src="https://github.com/webpack/media/blob/master/logo/icon.png"></code>
 
 
 
