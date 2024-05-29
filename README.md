@@ -7,7 +7,7 @@
 </a>
 
 <br>
-Hi! My name is Tatiana Krupnikova. I'm studying frontend developer.
+Hi! My name is Tatiana Krupnikova. I'm frontend developer.
 <br>
 
 **Languages and Tools:**  
@@ -23,6 +23,7 @@ Hi! My name is Tatiana Krupnikova. I'm studying frontend developer.
 - 🌱 I’m currently learning HTML, CSS, Git, Java Script, Bootstrap, Webpack.
 - 🤔 I’m looking for my traineeship as the frontend developer
 - My goals:
-- learning React
-- learning Vue
-- learning Node
+- learning React.js
+- learning TypeScript
+- learning Vue.js
+- learning Node.js
