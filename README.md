@@ -17,10 +17,11 @@ Hi! My name is Tatiana Krupnikova. I'm frontend developer.
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img height="20" src="https://github.com/webpack/media/blob/master/logo/icon.png"></code>
+<code><img height="20" src="https://github.com/vitejs/vite/blob/main/docs/images/vite.svg"></code>
 <code><img height="20" src="https://github.com/reactjs/react.dev/blob/main/public/images/brand/logo_dark.svg"></code>
 <code><img height="20" src="https://github.com/reduxjs/redux/blob/master/logo/logo.png"></code>
 <code><img height="20" src="https://github.com/mobxjs/mobx/blob/main/website/static/img/mobx.png"></code>
-<code><img height="20" src="https://github.com/vitejs/vite/blob/main/docs/images/vite.svg"></code>
+
 
 
 
@@ -28,7 +29,6 @@ Hi! My name is Tatiana Krupnikova. I'm frontend developer.
 - 🌱 I’m currently learning HTML, CSS, Git, Java Script, Bootstrap, Webpack.
 - 🤔 I’m looking for my traineeship as the frontend developer
 - My goals:
-- learning React.js
 - learning TypeScript
 - learning Vue.js
 - learning Node.js
