@@ -26,8 +26,8 @@ Hi! My name is Tatiana Krupnikova. I'm frontend developer.
 
 
 
-- 🌱 I’m currently learning HTML, CSS, Git, Java Script, Bootstrap, Webpack.
-- 🤔 I’m looking for my traineeship as the frontend developer
+- 🌱 I’m currently learning HTML, CSS, Git, Java Script, React, Bootstrap, Webpack, Vite.
+- 🤔 I’m looking for a job as the frontend developer
 - My goals:
 - learning TypeScript
 - learning Vue.js
