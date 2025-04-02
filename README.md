@@ -22,8 +22,8 @@ Hi! My name is Tatiana Krupnikova. I'm frontend developer.
 <code><img height="20" src="https://github.com/reduxjs/redux/blob/master/logo/logo.png"></code>
 <code><img height="20" src="https://github.com/mobxjs/mobx/blob/main/website/static/img/mobx.png"></code>
 <code><img height="20" src="https://github.com/graphql/graphql.github.io/blob/source/public/img/logo.svg"></code>
-<code><img height="20" src="https://en.wikipedia.org/wiki/TypeScript#/media/File:Typescript.svg"></code>
-<code><img height="20" src="https://en.wikipedia.org/wiki/Swagger_(software)#/media/File:Swagger-logo.png"></code>
+<code><img height="20" src="[https://en.wikipedia.org/wiki/TypeScript#/media/File:Typescript.svg](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)"></code>
+<code><img height="20" src="[https://en.wikipedia.org/wiki/Swagger_(software)#/media/File:Swagger-logo.png](https://iconduck.com/icons/28022/swagger)"></code>
 
 
 
