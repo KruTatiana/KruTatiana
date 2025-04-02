@@ -21,14 +21,11 @@ Hi! My name is Tatiana Krupnikova. I'm frontend developer.
 <code><img height="20" src="https://github.com/reactjs/react.dev/blob/main/public/images/brand/logo_dark.svg"></code>
 <code><img height="20" src="https://github.com/reduxjs/redux/blob/master/logo/logo.png"></code>
 <code><img height="20" src="https://github.com/mobxjs/mobx/blob/main/website/static/img/mobx.png"></code>
+<code><img height="20" src="https://github.com/graphql/graphql.github.io/blob/source/public/img/logo.svg"></code>
+<code><img height="20" src="https://en.wikipedia.org/wiki/TypeScript#/media/File:Typescript.svg"></code>
+<code><img height="20" src="https://en.wikipedia.org/wiki/Swagger_(software)#/media/File:Swagger-logo.png"></code>
 
 
 
-
-
-- 🌱 I’m currently learning HTML, CSS, Git, Java Script, React, Bootstrap, Webpack, Vite.
 - 🤔 I’m looking for a job as the frontend developer
-- My goals:
-- learning TypeScript
-- learning Vue.js
-- learning Node.js
+
